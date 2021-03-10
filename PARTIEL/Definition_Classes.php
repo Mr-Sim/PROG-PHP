@@ -12,6 +12,14 @@ class Entreprise {
 		$this->lieu = $lieu;
 	}
 }
+//SIMPLE MODIFICATION ALEATOIRE POUR LE TP 2
+######       #######
+######       #######
+######       #######
+######       #######
+
+ ##################
+     ##########
 
 class Personne {
 	//Attributs
